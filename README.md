@@ -1,1 +1,3 @@
-Herawati_D0221069_E
+Nama  :Herawati
+NIM   :D0221069
+Kelas :Inf 2021 E
